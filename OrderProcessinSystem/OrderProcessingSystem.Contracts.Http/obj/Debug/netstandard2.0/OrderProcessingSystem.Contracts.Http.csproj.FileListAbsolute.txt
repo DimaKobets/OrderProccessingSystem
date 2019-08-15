@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessingSystem.Contracts.Http\bin\Debug\netstandard2.0\OrderProcessingSystem.Contracts.Http.deps.json
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessingSystem.Contracts.Http\bin\Debug\netstandard2.0\OrderProcessingSystem.Contracts.Http.dll
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessingSystem.Contracts.Http\obj\Debug\netstandard2.0\OrderProcessingSystem.Contracts.Http.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessingSystem.Contracts.Http\obj\Debug\netstandard2.0\OrderProcessingSystem.Contracts.Http.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessingSystem.Contracts.Http\obj\Debug\netstandard2.0\OrderProcessingSystem.Contracts.Http.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessingSystem.Contracts.Http\obj\Debug\netstandard2.0\OrderProcessingSystem.Contracts.Http.AssemblyInfo.cs
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessingSystem.Contracts.Http\bin\Debug\netstandard2.0\OrderProcessingSystem.Contracts.Http.pdb
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessingSystem.Contracts.Http\obj\Debug\netstandard2.0\OrderProcessingSystem.Contracts.Http.dll
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessingSystem.Contracts.Http\obj\Debug\netstandard2.0\OrderProcessingSystem.Contracts.Http.pdb

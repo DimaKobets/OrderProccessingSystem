@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessinSystem\bin\Debug\netcoreapp2.2\OrderProcessinSystem.deps.json
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessinSystem\bin\Debug\netcoreapp2.2\OrderProcessinSystem.runtimeconfig.json
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessinSystem\bin\Debug\netcoreapp2.2\OrderProcessinSystem.runtimeconfig.dev.json
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessinSystem\bin\Debug\netcoreapp2.2\OrderProcessinSystem.dll
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessinSystem\obj\Debug\netcoreapp2.2\OrderProcessinSystem.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessinSystem\obj\Debug\netcoreapp2.2\OrderProcessinSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessinSystem\obj\Debug\netcoreapp2.2\OrderProcessinSystem.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessinSystem\obj\Debug\netcoreapp2.2\OrderProcessinSystem.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessinSystem\obj\Debug\netcoreapp2.2\OrderProcessinSystem.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessinSystem\obj\Debug\netcoreapp2.2\OrderProcessinSystem.AssemblyInfo.cs
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessinSystem\obj\Debug\netcoreapp2.2\OrderProcessinSystem.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessinSystem\bin\Debug\netcoreapp2.2\OrderProcessinSystem.pdb
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessinSystem\obj\Debug\netcoreapp2.2\OrderProcessinSystem.dll
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessinSystem\obj\Debug\netcoreapp2.2\OrderProcessinSystem.pdb
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessinSystem\bin\Debug\netcoreapp2.2\OrderProcessingSystem.Contracts.Http.dll
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessinSystem\bin\Debug\netcoreapp2.2\OrderProcessingSystem.Contracts.Http.pdb
+C:\Users\User\source\repos\OrderProcessinSystem\OrderProcessinSystem\obj\Debug\netcoreapp2.2\OrderProcessinSystem.csproj.CopyComplete
